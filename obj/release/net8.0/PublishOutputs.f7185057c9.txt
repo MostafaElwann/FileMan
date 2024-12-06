@@ -1,0 +1,10 @@
+I:\codeprojects\Csharp\FileManager(C#)\bin\Release\net8.0\publish\FileManager.exe
+I:\codeprojects\Csharp\FileManager(C#)\bin\Release\net8.0\publish\FileManager.dll
+I:\codeprojects\Csharp\FileManager(C#)\bin\Release\net8.0\publish\FileManager.deps.json
+I:\codeprojects\Csharp\FileManager(C#)\bin\Release\net8.0\publish\FileManager.runtimeconfig.json
+I:\codeprojects\Csharp\FileManager(C#)\bin\Release\net8.0\publish\FileManager.pdb
+I:\codeprojects\Csharp\FileManager(C#)\bin\Release\net8.0\publish\Aspose.Imaging.dll
+I:\codeprojects\Csharp\FileManager(C#)\bin\Release\net8.0\publish\Microsoft.Win32.SystemEvents.dll
+I:\codeprojects\Csharp\FileManager(C#)\bin\Release\net8.0\publish\System.Drawing.Common.dll
+I:\codeprojects\Csharp\FileManager(C#)\bin\Release\net8.0\publish\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+I:\codeprojects\Csharp\FileManager(C#)\bin\Release\net8.0\publish\runtimes\win\lib\net7.0\System.Drawing.Common.dll

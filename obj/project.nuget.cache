@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "JAXdlC/jgiJD5bUQVuhH47miLRnGU4wD1EaoaQqm61N3KmCdCQORqi77pXhGcJcMsbdBSpDXa50vYcyO5TlLbA==",
+  "success": true,
+  "projectFilePath": "I:\\codeprojects\\Csharp\\FileManager(C#)\\FileManager.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mostafa\\.nuget\\packages\\aspose.imaging\\22.9.0\\aspose.imaging.22.9.0.nupkg.sha512",
+    "C:\\Users\\Mostafa\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\Mostafa\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0-preview.7.22375.6\\microsoft.win32.systemevents.7.0.0-preview.7.22375.6.nupkg.sha512",
+    "C:\\Users\\Mostafa\\.nuget\\packages\\system.drawing.common\\7.0.0-preview.7.22375.6\\system.drawing.common.7.0.0-preview.7.22375.6.nupkg.sha512",
+    "C:\\Users\\Mostafa\\.nuget\\packages\\system.text.encoding.codepages\\5.0.0\\system.text.encoding.codepages.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
